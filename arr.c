@@ -42,6 +42,6 @@ int main()
 			}
 		}
 	}
-	printf("Sum: %d",sum);
+	printf("Sum of diagnol elements: %d",sum);
 	return 0;
 }
